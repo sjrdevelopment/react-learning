@@ -1,0 +1,25 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "author": "stu the cool",
+            "text": "test test test"
+        },
+        {
+            "id": 2,
+            "author": "stu the cooler",
+            "text": "test test test"
+        },
+        {
+            "id": 3,
+            "author": "stu the coolest",
+            "text": "test test test"
+        },
+        {
+            "id": 4,
+            "author": "ultimate stu",
+            "text": "test test test"
+        }
+
+    ]
+}
